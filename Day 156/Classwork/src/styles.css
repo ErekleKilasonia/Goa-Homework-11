@@ -1,0 +1,20 @@
+.book{
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    height: 100%;
+    width: 500px;
+    gap: 30px;
+}
+.books{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+}
+input{
+    margin-bottom: 10px;
+}
+.navigator1{
+    margin-bottom: 10px;
+}
